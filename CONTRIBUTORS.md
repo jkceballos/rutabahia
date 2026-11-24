@@ -4,4 +4,5 @@ Ficha 3230489 · ADSO · SENA Centro de Comercio y Servicios
  
 | Nombre | Usuario de GitHub |
 |---|---|
-| victor de la hoz vasquez (aprendis) | valeidelahoz-rgb |
+| Juan Carlos Ceballos Mendoza (instructor) | @jkceballos |
+ victor de la hoz vasquez (aprendis) | valeidelahoz-rgb |
